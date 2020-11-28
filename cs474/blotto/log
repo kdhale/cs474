@@ -1,0 +1,20 @@
+ESTIMATE of time to complete assignment: 12 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+10/06 12:00pm 2:00  read assignment and made input reading, outputs list of possible sum combonations
+10/12 12:26am 2:40  got it to generate a grid of all possible player one scores and player one wins, tryint to figure out sciyp script
+10/13 4:00pm  6:00  find works more or less, still trying to figure out verify to test
+      8:00pm  7:00  find and verify both work, 16/19 test cases passing, still need to get the other half of inequalities working!
+10/14 7:00pm  4:00  fixed a few bugs, hitting 18/19 now
+               ----
+               21:40  TOTAL time spent
+
+I discussed my solution with: Ileana Valdez (she just told me to transpose me matrix for scipy)
+
+Since I couldn't really check my methods before I created verify, this was a bit of a challenging pset. 
+Specifically, I got confused on things that weren't written out in the notes, so specifically I didn't notice when
+Glenn mentioned transposing the matrix for scipy formatting, and I didn't realize that I had to add 1 to my win matrix
+(and later, to only add 1 in my find win matrix, not my verify win matrix). Overall I worked till the last second on this
+one, but I'm proud of the work that I did!

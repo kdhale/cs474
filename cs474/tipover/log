@@ -1,0 +1,26 @@
+
+ESTIMATE of time to complete assignment: 12 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+9/08  04:00pm  2:00  read assignment and played several games to help me
+                     understand the rules, pseudo coded and decided my language 
+                     (python), started writing a rough main and recursive function
+09/12 12:20pm  1:00  Worked on my algorithm for checking possible moves
+      06:50pm  0:30  Finished algorithim
+09/13 11:45am  6:00  connected ssh, figured out how to read from stdin and run test cases
+      10:30pm  5:00  created and tested connected components function, tested possible moves function
+09/14 11:00am  2:30  finally got output in correct format, can not run tests! undid recursive moves that don't work, reached 7/9  
+      03:45pm  0:15  reformatted input to take in double digit numbers, now passes 9/9!
+               ----
+               18:15  TOTAL time spent
+
+I discussed my solution with: Went to office hours
+
+
+This is my first time using the zoo in about a year, so I took a while getting comfortable with the terminal ans sshing into the zoo again.
+Also, I'm not as confident in python, so even learning how to take in input and parse through the lines of the input took some time. Also, 
+there were so many different board states that i didn'nt think about initially, including the ability to climb from one stack to another,
+being able to go onto tipped over boxes, etc. The backtracking algorithim helped a lot, but I still took a while to remember to undo solutions 
+that didn't work, remember which grid state to return to, etc. 

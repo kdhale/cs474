@@ -1,0 +1,24 @@
+ESTIMATE of time to complete assignment: 12 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+09/26  09:00pm 2:00  read assignment and played several games to help me
+                     understand the rules
+09/27 06:30pm  8:00  figured out algorithim and got output working for player two estimate and move, 4/11
+09/28 01:00pm  1:20  added memoization, figured out how to combine player one and player two function to get player one expected, currently passed 7/11 and only have player one --expect left
+      04:30pm  4:00  realized that I was doing range(1,6) instead of range(1,7), now passing 8/11
+      10:30pm  3:30  was getting p1 --expected values slightly off, learned from a piazza question that I was
+                     supposed to check if sum(S') <= of > 6 instead of original S. Also figured out my own memoization
+                     function. now passing 11/11!
+               ----
+               18:50  TOTAL time spent
+
+I discussed my solution with: 
+
+It was rather intimidating getting started on this project because I knew I had to generate every possible outcome, 
+AND keep track of the probability of ssaid outcomes. Also I didn't originally know about memoization, so my 
+original implementation was really slow and I didn't know why. Towards the end it was frusterating because my p1 estimates
+were the only thing left, and the answers I was getting were only .001 decimal places off. learned from a piazza question that I was
+supposed to check if sum(S') <= of > 6 instead of original S. After that, rewrote memoization function which took a while
+because I was figuring out the right date types to store the keys in. 

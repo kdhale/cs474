@@ -1,0 +1,21 @@
+ESTIMATE of time to complete assignment: 15 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+11/15 02:00pm 3:00  read assignment and pseudocoded with Ileana, currently q-learning is running for 9.000016927719116 seconds
+			   so need to get that down, but the percentage I'm getting is betwteen .33 and .12 so that's good!
+              2:00  fixed Q learning time soit's below 9 seconds, printed out bucket times visited and trying to get them even
+11/16 02:20pm 1:30  went to office hours, then fixed so i have a 3x3 bucket for each possible action, up to .381 for 0 9 250000
+      09:15pm 2:30  reconfigued a bit
+11/17 08:00pm 5:30  went to office hours and reconfigured, currently at .42 ... returned to my original algorithim, now getting .511 consistently!
+               ----
+              14:30  TOTAL time spent
+
+I discussed my solution with: Ileana Valdez, we pseudocoded together and talked through the assignment so we would have
+a high level understanding of it
+
+THis pset was extremely tedious. and i was hearing a lot of different perspectives and methods from the teaching team, so I confused myself a bit because I was trying to 
+implement methods that were at times conflicting and non-intuitive. I did have the basic algorithim right though, and once I returned to my original implementation 
+of things It worked well, I was at .46! After that I just had to tweak my buckets, which wasn't too bad. The hardest part was knowing how to change variables methodically,
+since there were so many options for changing it was hard to know which to change. 

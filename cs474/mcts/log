@@ -1,0 +1,20 @@
+ESTIMATE of time to complete assignment: 15 hours
+
+      Time     Time
+Date  Started  Spent Work completed
+----  -------  ----  --------------
+10/25 09:00pm 2:00  read assignment and made input reading, outputs list of possible sum combonations
+10/28 08:00pm 8:00  went to office hours, finally understanding mcts and ucb, currently 1000 runs gets .14
+10/29 01:00pm 7:00  went to office hours, getting .3
+10/31 08:00pm 3:00  currently getting above .5!
+               ----
+               20:00  TOTAL time spent
+
+I discussed my solution with: Ileana Valdez, she told me that when returning the final move, it should be the 
+max wins/turns value for the original node''s children, instead of maxinizing ucb for them
+
+This pset was HARDDD. I used 3 late days for it, I think it was especially hard because I struggled when
+testing, considering how long it took. Also, there were a few things in the algorithim that I didn't originally
+realize from the class notes. Definitely spent a lot time at office hours. Just proud that I finially finished. 
+I didn't originally understand the fact that you has to traverse till you found a node that could be expanded. 
+I just thought you went through all the children of a node and then kept moving from there. Glad to be finished! 
